@@ -3,7 +3,7 @@ h1 {
     font-size: 100px;
     font-weight: bold;
     text-align: center;
-    background-image: url('/Resources/images/pattern.jpeg');
+    background-image: url('pattern.jpeg');
 }
  .brushes {
     color:white;
